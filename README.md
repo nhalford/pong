@@ -1,6 +1,6 @@
 # Pong
 
-Pong built in Haskell using [Reactive Banana](https://wiki.haskell.org/Reactive-banana)
+Pong built in Haskell using [Reactive-banana](https://wiki.haskell.org/Reactive-banana)
 for FRP and [wxHaskell](https://wiki.haskell.org/WxHaskell) for GUI.
 
 This is currently a work in progress but will include code for training a neural network to
